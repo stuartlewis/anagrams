@@ -1,1 +1,1 @@
-# anagrams
+# TrustPilot Code challenge
